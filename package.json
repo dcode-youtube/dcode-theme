@@ -1,0 +1,29 @@
+{
+    "name": "dcode-theme",
+    "displayName": "dcode Theme",
+    "publisher": "dcode",
+    "description": "I've created this theme for my YouTube channel, dcode. It's based off the colours used in my logo and channel art.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "icon": "icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "dcode",
+        "dark",
+        "green",
+        "italic"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dcode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dcode-color-theme.json"
+            }
+        ]
+    }
+}
