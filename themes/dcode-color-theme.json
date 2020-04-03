@@ -19,6 +19,8 @@
 		"list.hoverBackground": "#33403e",
 		"list.focusBackground": "#475957",
 		"statusBar.background": "#009578",
+		"statusBar.noFolderBackground": "#009578",
+		"statusBar.debuggingBackground": "#009578",
 		"editorGroupHeader.tabsBackground": "#1f2625",
 		"tab.activeBackground": "#33403e",
 		"tab.activeBorder": "#009578",
